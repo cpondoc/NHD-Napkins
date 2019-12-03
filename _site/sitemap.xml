@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/journal/a-potpourri-of-project-creation-tips.html</loc>
+<lastmod>2019-10-21T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/journal/the-things-that-no-one-can-imagine.html</loc>
+<lastmod>2019-11-04T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/journal/picking-a-great-topic.html</loc>
+<lastmod>2019-11-18T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/journal/formulating-a-fantastic-thesis.html</loc>
+<lastmod>2019-12-02T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/menu/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/menu/contact.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/menu/writing.html</loc>
+</url>
+</urlset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>NHD Napkins</title>
+		<description>snippets of History Day</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Formulating a Fantastic Thesis</title>
+				
+					<dc:creator>Chris Pondoc</dc:creator>
+				
+				
+					<description>&lt;p&gt;The thesis is often thought of to be the most important component to any writing piece. While I personally don’t believe in “formulas” when it comes to subjective competitions such as National History Day, I do believe that the template below serves as a great structure for crafting a strong thesis:&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 02 Dec 2019 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/journal/formulating-a-fantastic-thesis.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/formulating-a-fantastic-thesis.html</guid>
+			</item>
+		
+			<item>
+				<title>Picking a Great Topic</title>
+				
+					<dc:creator>Chris Pondoc</dc:creator>
+				
+				
+					<description>&lt;p&gt;Finding a great topic can be hard for a lot of National History Day participants. This is especially when your team has numerous interests that stretch a variety of fields. Regardless, there are three key tenets you should stick to when choosing a great topic.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 18 Nov 2019 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/journal/picking-a-great-topic.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/picking-a-great-topic.html</guid>
+			</item>
+		
+			<item>
+				<title>The Things that No One Can Imagine</title>
+				
+					<dc:creator>Chris Pondoc</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;em&gt;Written originally for my high school newspaper.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 04 Nov 2019 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/journal/the-things-that-no-one-can-imagine.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/the-things-that-no-one-can-imagine.html</guid>
+			</item>
+		
+			<item>
+				<title>A Potpourri of Project Tips</title>
+				
+					<dc:creator>Chris Pondoc</dc:creator>
+				
+				
+					<description>&lt;p&gt;With students getting ready to turn their ideas and notes into a polished project, I offer a couple of tips to help guide your work.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 21 Oct 2019 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/journal/a-potpourri-of-project-creation-tips.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/a-potpourri-of-project-creation-tips.html</guid>
+			</item>
+		
+	</channel>
+</rss>
